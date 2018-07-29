@@ -1,0 +1,7 @@
+Script para sacar todos os links de videos de um canal.
+
+Procedimento:
+	- Abrir o canal para mostrar todos os vídeos do youtube.
+	- Gravar a página numa pasta.
+	- Abrir com o bloco de notas e no fim do ficheiro .html, por a seguinte linha antes de </html>: <script src="tds.js"></script>
+	- Gravar e abrir o .html com o navegador.
